@@ -1,0 +1,16 @@
+# Cache e bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.py
+.pytest_cache/
+
+!**/.gitkeep
+
+# Ambienti virtuali
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
