@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 *.pyo
-*.py
 .pytest_cache/
 
 !**/.gitkeep
